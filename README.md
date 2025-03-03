@@ -22,6 +22,8 @@ A well-crafted GitHub profile README can make your profile stand out and give vi
 - 📊 **Data-driven music analysis** – Researching patterns and trends in music using AI.  
 
 
+## 📫 How to Reach Me  
+- 📨 Email: [naikchaitanyadeba@gmail.com]  
 
 ## 😄 Pronouns  
 - He/Him (or update accordingly)  
@@ -30,8 +32,6 @@ A well-crafted GitHub profile README can make your profile stand out and give vi
 - 🎧 I can spend hours tweaking AI-generated music to make it sound **just right**!  
 - 🎤  AI-generated song was inspired 
 
----
 
-You can customize it further based on your specific interests and experiences. Let me know if you want a more personalized touch!
  
 open 2025
